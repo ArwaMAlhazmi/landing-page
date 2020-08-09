@@ -5,7 +5,6 @@
 * [Project Overview](#Project-Overview)
 * [Implemented Functionality](#Implemented-Functionality)
 * [Instructions for Running the blog](#Instructions-for-Running-the-Blog)
-* [Dependencies](#Dependencies)
 
 ## Project Overview
 
@@ -23,8 +22,3 @@ HTML, CSS, Javascript
 ## Instructions for Running the Site
 
 Clone the GitHub repository and use index.html to run the app in your browser.
-
-## Dependencies
-
-in-view 0.6.1 - Get notified when a DOM element enters or exits the viewport.
-https://camwiegert.github.io/in-view
