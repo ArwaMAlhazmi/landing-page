@@ -117,5 +117,5 @@ window.addEventListener('load', () => {
 	
 });
 
-// Scroll to section on link click
-window.addEventListener('click', smoothScroll);
+// Scroll to section on nav click
+document.querySelector('nav').addEventListener('click', smoothScroll);
