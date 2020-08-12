@@ -5,7 +5,7 @@
  * scrolls to anchors from navigation,
  * and highlights section in viewport upon scrolling.
  * 
- * Dependencies: None
+ * Dependencies: in-view 0.6.1 - Get notified when a DOM element enters or exits the viewport. https://camwiegert.github.io/in-view
  * 
  * JS Version: ES2015/ES6
  * 
